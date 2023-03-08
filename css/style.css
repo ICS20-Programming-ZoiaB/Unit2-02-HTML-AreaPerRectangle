@@ -5,12 +5,12 @@
 */
 
 body {
-	background-color: aliceblue;
+	background-color: #72a0ac;
 }
 
 h1 {
-	background-color: #8785ff;
-	color: hsl(110, 32%, 23%);
+	background-color: #520000;
+	color: hsl(284, 29%, 55%);
 	padding: 40px;
 	text-align: center;
 }

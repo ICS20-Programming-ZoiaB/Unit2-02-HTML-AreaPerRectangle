@@ -6,6 +6,6 @@
 
 function doMathClicked () {
   // this function does basic math
-  document.getElementById('add-math').innerHTML = "1 + 1 + 2 + 2 = " + (1 + 1 + 2 + 2)
-  document.getElementById('multiply-math').innerHTML = "1 * 2 = " + (1 * 2)
+  document.getElementById('add-math').innerHTML = 'The perimeter of the glass pane is ' + (1 + 1 + 2 + 2) + "cm."
+  document.getElementById('multiply-math').innerHTML = 'The area of the glass pane is ' + (1 * 2) + "cm<sup>2</sup>."
 }
