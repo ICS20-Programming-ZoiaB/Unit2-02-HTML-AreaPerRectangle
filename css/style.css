@@ -5,14 +5,14 @@
 */
 
 body {
-	background-color: #72a0ac;
+  background-color: #72a0ac;
 }
 
 h1 {
-	background-color: #520000;
-	color: hsl(284, 29%, 55%);
-	padding: 40px;
-	text-align: center;
+  background-color: #520000;
+  color: hsl(284deg 29% 55%);
+  padding: 40px;
+  text-align: center;
 }
 
 p {
